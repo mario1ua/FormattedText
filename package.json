@@ -1,0 +1,25 @@
+{
+  "name": "formatted-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mario1ua/FormattedText.git"
+  },
+  "author": "Sergiy Ostrovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mario1ua/FormattedText/issues"
+  },
+  "homepage": "https://github.com/mario1ua/FormattedText#readme",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.63.2"
+  }
+}
